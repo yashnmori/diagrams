@@ -1,17 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T00:25:43.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="lK53Www6CZc_YJ3pAuGv" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T00:27:41.354Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="qT2roIePH6xfDcdmrY4k" version="20.3.2" type="github">
   <diagram id="n0FWNtyTUCLgSeuK2bP_" name="Page-1">
-    <mxGraphModel dx="1697" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2897" dy="1349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="phYRqFWad9itH8H1e_CE-1" value="Online Retail sales DATASET&lt;br&gt;Format: .csv&lt;br&gt;Records: 5,41,909&lt;br&gt;Source: Kaggle&lt;a href=&quot;https://www.kaggle.com/datasets/rohitmahulkar/online-retails-sale-dataset&quot;&gt;(link)&lt;/a&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="40" y="50" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="phYRqFWad9itH8H1e_CE-3" value="Online Retail sales DATASET&lt;br&gt;Format: .csv&lt;br&gt;Records: 5,41,909&lt;br&gt;Source: Kaggle&lt;a href=&quot;https://www.kaggle.com/datasets/rohitmahulkar/online-retails-sale-dataset&quot;&gt;(link)&lt;/a&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="810" y="40" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="phYRqFWad9itH8H1e_CE-4" value="Online Retail sales DATASET&lt;br&gt;Format: .csv&lt;br&gt;Records: 5,41,909&lt;br&gt;Source: Kaggle&lt;a href=&quot;https://www.kaggle.com/datasets/rohitmahulkar/online-retails-sale-dataset&quot;&gt;(link)&lt;/a&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
-          <mxGeometry x="1670" y="40" width="150" height="150" as="geometry" />
+        <mxCell id="phYRqFWad9itH8H1e_CE-1" value="Online Retail sales DATASET&lt;br&gt;Format: .csv&lt;br&gt;Records: 5,41,909&lt;br&gt;Source: Kaggle&lt;a href=&quot;https://www.kaggle.com/datasets/rohitmahulkar/online-retails-sale-dataset&quot;&gt;(link)&lt;/a&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-1140" y="-240" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
